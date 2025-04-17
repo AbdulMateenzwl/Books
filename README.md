@@ -13,6 +13,7 @@ The books in this repository are categorized into the following sections:
 - **System Design** – Get insights into designing large-scale distributed systems.
 - **Data-Intensive Applications** – Dive into the challenges and best practices of handling data at scale.
 - **Microservices & Event-Driven Systems** – Explore microservices architecture and event-driven design patterns.
+- **Languages** - Learn Different Languages with Advance Concepts used to build Enterprise Apps.
 - **Coding Interviews & DSA** – Prepare for coding interviews with algorithm and data structure resources.
 
 ## 🛠 How to Use This Repository
